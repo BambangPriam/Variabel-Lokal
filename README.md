@@ -1,1 +1,23 @@
 # Variabel-Lokal
+    #include <stdio.h>
+    #include <conio.h>
+
+    int TAMBAH (int A, int B);
+
+    int main(){
+    int hasil;
+    hasil = TAMBAH(2,3);
+    printf("Hasil = %d", hasil);
+    _getch();
+    }int TAMBAH ( int A, int B) {
+    int C;
+    C= A+B;
+    {
+    float C;
+    C = 100;
+    }
+
+    return(C);
+
+    }
+   ![img](https://raw.githubusercontent.com/BambangPriam/Variabel-Lokal/master/Variabel%20lokal.png)
